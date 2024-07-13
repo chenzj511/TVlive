@@ -14,7 +14,7 @@
 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 
 ## 🏄‍♀️源地址
-'https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenzj511/TVlive/main/m3u/chenzjtv.m3u'
+`https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenzj511/TVlive/blob/main/m3u/chenzj_tvlive.m3u`
 
 ## 🛠️EPG
 
