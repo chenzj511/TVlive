@@ -1,4 +1,3 @@
-<img align="right" width="350" height="270" src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/Meroser.png">
 
 # IPTV📺
 欢迎来到chenzj_511的直播源仓库🎉
@@ -26,8 +25,8 @@
   - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenzj511/TVlive/main/tvxml.xml`[推荐✨]
   - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/chenzj511/TVlive/main/tvxml.xml`
 - **详情版：** 内容详细、定时更新、尝鲜🎈
-  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
-  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
+  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenzj511/TVlive/main/tvxml-test.xml.gz`[推荐✨]
+  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/chenzj511/TVlive/main/tvxml-test.xml.gz`
 
 <u>注：稳定版每天00:25左右自动更新，请根据自身网络情况选择以上可用地址访问。🎈详情版目前仅提供gz版，每日00:40左右自动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
 
@@ -37,10 +36,8 @@
 
 - 112114：`https://epg.112114.xyz/?ch={name}&date={date}` <u>*推荐✨节目覆盖范围较广*</u>
 
-<img align="right" width="280" height="350" src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/IPTV_Player.png">
-
 ## 🆕更新
-- 2024.02.27 Clone Trotay仓库，学习和自用
+- 2024.02.27 学习和自用
 
 ## 💡致谢：
 - 
