@@ -17,6 +17,7 @@ import requests
 m3u_url='https://raw.githubusercontent.com/chenzj511/TVlive/main/m3u/chenzj_tvlive.m3u'
 epg1_api='https://epg.112114.xyz/?ch='
 epg2_api='https://diyp.112114.xyz/?ch='
+epg3_api='http://epg.51zmt.top:8000/api/diyp/?ch='
 header={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0'}
 
 # 定义频道原始数据获取函数
