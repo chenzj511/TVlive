@@ -23,8 +23,8 @@
 
 ### 📆EPG文件地址[tvxml格式]：
 - **稳定版：** 稳定、定时更新、信息准确🎈
-  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenzj_511/TVlive/main/tvxml.xml`[推荐✨]
-  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/chenzj_511/TVlive/main/tvxml.xml`
+  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenzj511/TVlive/main/tvxml.xml`[推荐✨]
+  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/chenzj511/TVlive/main/tvxml.xml`
 - **详情版：** 内容详细、定时更新、尝鲜🎈
   - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
   - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
