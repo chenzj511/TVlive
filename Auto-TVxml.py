@@ -30,7 +30,7 @@ def fetch_m3u_data(m3u_url):
 
 # 定义道ID和频道名提取字典建立函数
 def extract_tvg_info_from_m3u(m3u_data):
-    pattern = re.compile(r'#EXTINF:-1 tvg-id="(.*?)" tvg-name="(.*?)"', re.DOTALL)
+    pattern = re.compile(r'#EXTINF:-1 tvg-id="(.*?)" tvg-name="(.*?)"', re.DOTALL|re.I)
     matches = pattern.findall(m3u_data)
     
     tvg_dict = {}
