@@ -87,11 +87,11 @@ https://bsex.serv00.net/Smart.php?id=ftvtaiwan_twn
 https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/btv4_2/index.m3u8
 #EXTINF:-1 tvg-id="C020" tvg-name="CHC高清电影"  tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png"，group-title="影视频道",CHC高清电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C021" tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",CHC动作电影
+#EXTINF:-1 tvg-id="C021" tvg-name="CHC动作电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+#EXTINF:-1 tvg-id="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影" tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
@@ -99,7 +99,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -131,7 +131,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -343,4 +343,3 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="Y10"  tvg-name="TheLegoChannel" group-title="体育频道"  tvg-logo="https://i.imgur.com/tMfEsVr.png" ,乐高频道
 https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-
