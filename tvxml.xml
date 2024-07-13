@@ -133,20 +133,19 @@
 <display-name lang="zh">CHC高清电影</display-name>
 </channel>
 <channel id="C021">
-<display-name lang="zh">CHC高清电影</display-name>
+<display-name lang="zh">CHC动作电影</display-name>
 </channel>
-<channel id="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+<channel id="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影">
-<display-name lang="zh">黑莓电影</display-name>
-</channel>
-<channel id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="C0100"  tvg-name="NEWTV动作电影" group-title="影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -178,7 +177,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -4895,103 +4894,62 @@ https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 <programme start="20240713220000 +0800" stop="20240713234000 +0800" channel="C020">
 <title lang="zh">暹罗决：九神战甲</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713060000 +0800" stop="20240713073000 +0800" channel="C021">
+<programme start="20240713012500 +0800" stop="20240713025500 +0800" channel="C021">
 <title lang="zh">战狼</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713073000 +0800" stop="20240713093400 +0800" channel="C021">
+<programme start="20240713025500 +0800" stop="20240713042500 +0800" channel="C021">
+<title lang="zh">新冷血十三鹰</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240713042500 +0800" stop="20240713062500 +0800" channel="C021">
 <title lang="zh">战狼Ⅱ</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713093400 +0800" stop="20240713112400 +0800" channel="C021">
-<title lang="zh">知音</title><desc lang="zh"></desc>
+<programme start="20240713062500 +0800" stop="20240713074000 +0800" channel="C021">
+<title lang="zh">大罗剑侠</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713112400 +0800" stop="20240713125900 +0800" channel="C021">
-<title lang="zh">舞出我人生4：街舞革命</title><desc lang="zh"></desc>
+<programme start="20240713074000 +0800" stop="20240713091000 +0800" channel="C021">
+<title lang="zh">沉睡魔咒</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713125900 +0800" stop="20240713144700 +0800" channel="C021">
-<title lang="zh">舞出我人生5：全员上阵</title><desc lang="zh"></desc>
+<programme start="20240713091000 +0800" stop="20240713103500 +0800" channel="C021">
+<title lang="zh">御案之谜</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713144700 +0800" stop="20240713162600 +0800" channel="C021">
-<title lang="zh">舞动人生</title><desc lang="zh"></desc>
+<programme start="20240713103500 +0800" stop="20240713121000 +0800" channel="C021">
+<title lang="zh">生死96小时</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713162600 +0800" stop="20240713185400 +0800" channel="C021">
-<title lang="zh">封神第一部：朝歌风云</title><desc lang="zh"></desc>
+<programme start="20240713121000 +0800" stop="20240713134500 +0800" channel="C021">
+<title lang="zh">三打三捷</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713185400 +0800" stop="20240713202600 +0800" channel="C021">
-<title lang="zh">骆驼客4-苍狼谷</title><desc lang="zh"></desc>
+<programme start="20240713134500 +0800" stop="20240713152000 +0800" channel="C021">
+<title lang="zh">镖行天下之走单骑</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713202600 +0800" stop="20240713220000 +0800" channel="C021">
-<title lang="zh">龙虾刑警</title><desc lang="zh"></desc>
+<programme start="20240713152000 +0800" stop="20240713165000 +0800" channel="C021">
+<title lang="zh">三少爷的剑</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713220000 +0800" stop="20240713234000 +0800" channel="C021">
-<title lang="zh">暹罗决：九神战甲</title><desc lang="zh"></desc>
+<programme start="20240713165000 +0800" stop="20240713182000 +0800" channel="C021">
+<title lang="zh">三原·一九三七</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713012200 +0800" stop="20240713025300 +0800" channel="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+<programme start="20240713182000 +0800" stop="20240713203000 +0800" channel="C021">
+<title lang="zh">追龙</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240713203000 +0800" stop="20240713221000 +0800" channel="C021">
+<title lang="zh">解放·终局营救</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240713221000 +0800" stop="20240713235000 +0800" channel="C021">
+<title lang="zh">诸神之怒</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240713235000 +0800" stop="20240713235900 +0800" channel="C021">
+<title lang="zh">760号犯人</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240713000000 +0800" stop="20240713020000 +0800" channel="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影">
-<title lang="zh">玩偶特工</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240713025300 +0800" stop="20240713041900 +0800" channel="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影">
-<title lang="zh">爱在星空下</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240713041900 +0800" stop="20240713055400 +0800" channel="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影">
-<title lang="zh">燕赤霞猎妖传</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240713055400 +0800" stop="20240713074100 +0800" channel="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影">
-<title lang="zh">照相师</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240713074100 +0800" stop="20240713092500 +0800" channel="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影">
-<title lang="zh">申纪兰</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240713092500 +0800" stop="20240713110000 +0800" channel="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影">
-<title lang="zh">爱要逢时</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240713110000 +0800" stop="20240713122600 +0800" channel="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影">
-<title lang="zh">罗曼蒂克之城</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240713122600 +0800" stop="20240713140600 +0800" channel="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影">
-<title lang="zh">世纪末的魔术师</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240713140600 +0800" stop="20240713154900 +0800" channel="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影">
-<title lang="zh">玩家</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240713154900 +0800" stop="20240713174000 +0800" channel="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影">
-<title lang="zh">百元之恋</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240713174000 +0800" stop="20240713192400 +0800" channel="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影">
-<title lang="zh">百鸟朝凤</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240713192400 +0800" stop="20240713215400 +0800" channel="C022"  tvg-name="CHC高清电影" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="C030"  tvg-name="CHC高清电影">
-<title lang="zh">变形金刚5：最后的骑士</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240713000000 +0800" stop="20240713020000 +0800" channel="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="C0100"  tvg-name="NEWTV动作电影" group-title="影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -5023,7 +4981,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -5120,13 +5078,17 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713020000 +0800" stop="20240713040000 +0800" channel="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
+<programme start="20240713020000 +0800" stop="20240713040000 +0800" channel="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="C0100"  tvg-name="NEWTV动作电影" group-title="影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -5158,7 +5120,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -5255,13 +5217,17 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713060000 +0800" stop="20240713080000 +0800" channel="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
+<programme start="20240713060000 +0800" stop="20240713080000 +0800" channel="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="C0100"  tvg-name="NEWTV动作电影" group-title="影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -5293,7 +5259,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -5390,13 +5356,17 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713080000 +0800" stop="20240713100600 +0800" channel="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
+<programme start="20240713080000 +0800" stop="20240713100600 +0800" channel="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="C0100"  tvg-name="NEWTV动作电影" group-title="影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -5428,7 +5398,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -5525,13 +5495,17 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713100600 +0800" stop="20240713120000 +0800" channel="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
+<programme start="20240713100600 +0800" stop="20240713120000 +0800" channel="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="C0100"  tvg-name="NEWTV动作电影" group-title="影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -5563,7 +5537,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -5660,13 +5634,17 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713120000 +0800" stop="20240713140000 +0800" channel="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
+<programme start="20240713120000 +0800" stop="20240713140000 +0800" channel="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="C0100"  tvg-name="NEWTV动作电影" group-title="影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -5698,7 +5676,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -5795,13 +5773,17 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713140000 +0800" stop="20240713160000 +0800" channel="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
+<programme start="20240713140000 +0800" stop="20240713160000 +0800" channel="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="C0100"  tvg-name="NEWTV动作电影" group-title="影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -5833,7 +5815,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -5930,13 +5912,17 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713160000 +0800" stop="20240713180000 +0800" channel="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
+<programme start="20240713160000 +0800" stop="20240713180000 +0800" channel="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="C0100"  tvg-name="NEWTV动作电影" group-title="影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -5968,7 +5954,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -6065,13 +6051,17 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713180000 +0800" stop="20240713190000 +0800" channel="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
+<programme start="20240713180000 +0800" stop="20240713190000 +0800" channel="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="C0100"  tvg-name="NEWTV动作电影" group-title="影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -6103,7 +6093,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -6200,13 +6190,17 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713190000 +0800" stop="20240713200000 +0800" channel="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
+<programme start="20240713190000 +0800" stop="20240713200000 +0800" channel="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="C0100"  tvg-name="NEWTV动作电影" group-title="影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -6238,7 +6232,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -6335,13 +6329,17 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713200000 +0800" stop="20240713220000 +0800" channel="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
+<programme start="20240713200000 +0800" stop="20240713220000 +0800" channel="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="C0100"  tvg-name="NEWTV动作电影" group-title="影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -6373,7 +6371,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -6470,13 +6468,17 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713220000 +0800" stop="20240713235900 +0800" channel="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
+<programme start="20240713220000 +0800" stop="20240713235900 +0800" channel="C022"  tvg-name="CHC家庭影院" group-title="影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="C030"  tvg-name="黑莓电影"  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png", group-title="影视频道",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="C040"  tvg-name="上视东方影视" group-title="影视频道",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="C0100"  tvg-name="NEWTV动作电影" group-title="影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="C0105"  tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png"，group-title="影视频道",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="C0110"  tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
+#EXTINF:-1 tvg-id="C0110"  tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png"，group-title="影视频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C0115"  tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png"，group-title="影视频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -6508,7 +6510,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="D0105"  tvg-name="Wild Earth" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildEarth.png" ,野生地球
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild_Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
+#EXTINF:-1 tvg-id="D0120"  tvg-name="Wild Planet" group-title="记录片频道",tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/WildPlanet.png" ,野生动物世界
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="D0125"  tvg-name="Clarity_4K" group-title="记录片频道", tvg-logo="https://gitee.com/Alfred6866/logo/raw/master/Clarity4K.png",高清记录频道(英)
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
