@@ -38,7 +38,7 @@ def extract_tvg_info_from_m3u(m3u_data):
         tvg_id, title = match[0], match[1]
         tvg_dict[tvg_id] = title 
     print('节目列表提取成功，共计',len(tvg_dict),'个频道')
-    # print(tvg_dict)
+    print(tvg_dict)
     tvg_list = []
 
     for key in tvg_dict:
