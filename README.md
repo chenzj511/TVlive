@@ -39,14 +39,6 @@
 
 <img align="right" width="280" height="350" src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/IPTV_Player.png">
 
-
-
-## 🎦频道展示
-展示内容为在小米电视+TiviMate 2.8.0示意
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/img1.jpg"></p>
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/img2.jpg"></p>
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/img3.jpg"></p>
-
 ## 🆕更新
 - 2024.02.27 Clone Trotay仓库，学习和自用
 
