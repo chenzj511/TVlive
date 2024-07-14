@@ -56,6 +56,10 @@ def epg_api_data(tvg_id,tvg_name):
     if '精彩节目-暂未提供节目预告信息' in epg_date.text or tvg_name in '卡酷少儿 纪实科教':
         print(tvg_name,'的EPG节目信息在API1中不存在或不准确 已更换为API2')
         epg_date=requests.get(epg2_api+tvg_name,headers=header)
+        if  '精彩节目-暂未提供节目预告信息' in epg_date.text :
+           print(tvg_name,'的EPG节目信息在API1和API2中不存在或不准确 已更换为API3')
+           epg_date=requests.get(epg3_api+tvg_name,headers=header)
+
     json_data = epg_date.json()
 
     # 创建空字符串用于存放 epg 内容
