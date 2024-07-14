@@ -5073,6 +5073,9 @@
 <programme start="20240714083400 +0800" stop="20240714100600 +0800" channel="C030">
 <title lang="zh">大神猴3情劫篇</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240714100600 +0800" stop="20240714113400 +0800" channel="C030">
+<title lang="zh">热土悲歌</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240714000000 +0800" stop="20240714070000 +0800" channel="C040">
 <title lang="zh">乱世豪情（1）</title><desc lang="zh"></desc>
 </programme>
@@ -5145,6 +5148,9 @@
 <programme start="20240714091000 +0800" stop="20240714095800 +0800" channel="C0100">
 <title lang="zh">山王果有机轻酵刺梨液新-渠道（右）</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240714095800 +0800" stop="20240714112400 +0800" channel="C0100">
+<title lang="zh">海平面上升</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240714001200 +0800" stop="20240714005700 +0800" channel="C0105">
 <title lang="zh">38_大秦帝国之纵横</title><desc lang="zh"></desc>
 </programme>
@@ -5184,6 +5190,9 @@
 <programme start="20240714092600 +0800" stop="20240714101200 +0800" channel="C0105">
 <title lang="zh">24_传闻中的陈芊芊</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240714101200 +0800" stop="20240714105700 +0800" channel="C0105">
+<title lang="zh">01_三生三世枕上书</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240714005300 +0800" stop="20240714011000 +0800" channel="C0110">
 <title lang="zh">今日影评</title><desc lang="zh"></desc>
 </programme>
@@ -5204,6 +5213,9 @@
 </programme>
 <programme start="20240714073700 +0800" stop="20240714092500 +0800" channel="C0110">
 <title lang="zh">北京小妞</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714092500 +0800" stop="20240714105600 +0800" channel="C0110">
+<title lang="zh">维京小战士</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240714003300 +0800" stop="20240714011900 +0800" channel="C0115">
 <title lang="zh">26_我哥我嫂</title><desc lang="zh"></desc>
@@ -5241,6 +5253,12 @@
 <programme start="20240714083300 +0800" stop="20240714091800 +0800" channel="C0115">
 <title lang="zh">18_刘老根3</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240714091800 +0800" stop="20240714100400 +0800" channel="C0115">
+<title lang="zh">19_刘老根3</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714100400 +0800" stop="20240714104800 +0800" channel="C0115">
+<title lang="zh">20_刘老根3</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240714002300 +0800" stop="20240714011300 +0800" channel="C0120">
 <title lang="zh">美国汤贝斯AKG细胞复活-渠道（右）</title><desc lang="zh"></desc>
 </programme>
@@ -5273,6 +5291,12 @@
 </programme>
 <programme start="20240714085700 +0800" stop="20240714094200 +0800" channel="C0120">
 <title lang="zh">59_扶摇</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714094200 +0800" stop="20240714102700 +0800" channel="C0120">
+<title lang="zh">60_扶摇</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714102700 +0800" stop="20240714111300 +0800" channel="C0120">
+<title lang="zh">61_扶摇</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240714002300 +0800" stop="20240714011300 +0800" channel="C0125">
 <title lang="zh">美国汤贝斯AKG细胞复活-渠道（右）</title><desc lang="zh"></desc>
@@ -5307,6 +5331,12 @@
 <programme start="20240714085700 +0800" stop="20240714094200 +0800" channel="C0125">
 <title lang="zh">59_扶摇</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240714094200 +0800" stop="20240714102700 +0800" channel="C0125">
+<title lang="zh">60_扶摇</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714102700 +0800" stop="20240714111300 +0800" channel="C0125">
+<title lang="zh">61_扶摇</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240714004000 +0800" stop="20240714021000 +0800" channel="C0130">
 <title lang="zh">斗战苍穹</title><desc lang="zh"></desc>
 </programme>
@@ -5333,6 +5363,9 @@
 </programme>
 <programme start="20240714091900 +0800" stop="20240714100700 +0800" channel="C0130">
 <title lang="zh">山王果有机轻酵刺梨液新-渠道（右）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714100700 +0800" stop="20240714105200 +0800" channel="C0130">
+<title lang="zh">01_少林寺传奇藏经阁</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240714002500 +0800" stop="20240714010700 +0800" channel="C0135">
 <title lang="zh">19_幸福照相馆</title><desc lang="zh"></desc>
@@ -5376,6 +5409,9 @@
 <programme start="20240714092800 +0800" stop="20240714101300 +0800" channel="C0135">
 <title lang="zh">18_幸福的错觉</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240714101300 +0800" stop="20240714105800 +0800" channel="C0135">
+<title lang="zh">19_幸福的错觉</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240714004300 +0800" stop="20240714012800 +0800" channel="C0140">
 <title lang="zh">11_新刑警本色</title><desc lang="zh"></desc>
 </programme>
@@ -5415,6 +5451,9 @@
 <programme start="20240714092600 +0800" stop="20240714101200 +0800" channel="C0140">
 <title lang="zh">77_因为爱情有多美（DVD版）</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240714101200 +0800" stop="20240714105900 +0800" channel="C0140">
+<title lang="zh">78_因为爱情有多美（DVD版）</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240714001900 +0800" stop="20240714010600 +0800" channel="C0145">
 <title lang="zh">18_红幡</title><desc lang="zh"></desc>
 </programme>
@@ -5450,6 +5489,12 @@
 </programme>
 <programme start="20240714084800 +0800" stop="20240714093400 +0800" channel="C0145">
 <title lang="zh">21_冷风暴</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714093400 +0800" stop="20240714102000 +0800" channel="C0145">
+<title lang="zh">22_冷风暴</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714102000 +0800" stop="20240714110500 +0800" channel="C0145">
+<title lang="zh">23_冷风暴</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240714010000 +0800" stop="20240714013900 +0800" channel="C0150">
 <title lang="zh">泰米拉泰国进口石墨烯乳胶床垫1.8m/乳胶床垫1.5m-渠道（右）</title><desc lang="zh"></desc>
@@ -5504,6 +5549,12 @@
 </programme>
 <programme start="20240714085100 +0800" stop="20240714093800 +0800" channel="C0155">
 <title lang="zh">23_重紫</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714093800 +0800" stop="20240714100800 +0800" channel="C0155">
+<title lang="zh">生活服务</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714100800 +0800" stop="20240714105300 +0800" channel="C0155">
+<title lang="zh">24_重紫</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240714000000 +0800" stop="20240714020000 +0800" channel="C0160">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
@@ -10089,6 +10140,9 @@
 <programme start="20240714082100 +0800" stop="20240714093800 +0800" channel="F060">
 <title lang="zh">开门大吉</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240714093800 +0800" stop="20240714104000 +0800" channel="F060">
+<title lang="zh">国风超有戏</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240714004000 +0800" stop="20240714033900 +0800" channel="F070">
 <title lang="zh">故事里的中国 第3季</title><desc lang="zh"></desc>
 </programme>
@@ -10103,6 +10157,9 @@
 </programme>
 <programme start="20240714073200 +0800" stop="20240714093900 +0800" channel="F070">
 <title lang="zh">德云斗笑社 第2季</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714093900 +0800" stop="20240714114900 +0800" channel="F070">
+<title lang="zh">灿烂的前行</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240714004100 +0800" stop="20240714021300 +0800" channel="F080">
 <title lang="zh">奇门偃甲师</title><desc lang="zh"></desc>
@@ -10136,6 +10193,12 @@
 </programme>
 <programme start="20240714085800 +0800" stop="20240714094400 +0800" channel="F080">
 <title lang="zh">16_林深见鹿</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714094400 +0800" stop="20240714103000 +0800" channel="F080">
+<title lang="zh">17_林深见鹿</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714103000 +0800" stop="20240714111600 +0800" channel="F080">
+<title lang="zh">18_林深见鹿</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240714000000 +0800" stop="20240714020000 +0800" channel="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
@@ -11292,6 +11355,12 @@
 <programme start="20240714085300 +0800" stop="20240714093900 +0800" channel="G080">
 <title lang="zh">05_护根铸魂</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240714093900 +0800" stop="20240714100700 +0800" channel="G080">
+<title lang="zh">十八洞——苗鼓敲出幸福歌（20230102）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714100700 +0800" stop="20240714105500 +0800" channel="G080">
+<title lang="zh">第6集：最坚强宝宝</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240714001000 +0800" stop="20240714003200 +0800" channel="G090">
 <title lang="zh">船政学堂 第一集 海国图梦（上）</title><desc lang="zh"></desc>
 </programme>
@@ -11351,6 +11420,9 @@
 </programme>
 <programme start="20240714085000 +0800" stop="20240714102700 +0800" channel="G090">
 <title lang="zh">蛟龙出海</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714102700 +0800" stop="20240714111900 +0800" channel="G090">
+<title lang="zh">血与火：第一次世界大战启示录 ① 点燃导火索</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240714000000 +0800" stop="20240714001200 +0800" channel="H010">
 <title lang="zh">这里是北京</title><desc lang="zh"></desc>
@@ -13755,6 +13827,18 @@
 <programme start="20240714092200 +0800" stop="20240714093600 +0800" channel="J050">
 <title lang="zh">02_超级勇士（下）</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240714093600 +0800" stop="20240714094700 +0800" channel="J050">
+<title lang="zh">09_小马宝莉之魔力新世界</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714095800 +0800" stop="20240714101100 +0800" channel="J050">
+<title lang="zh">13_百变校巴7</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714101100 +0800" stop="20240714102400 +0800" channel="J050">
+<title lang="zh">14_百变校巴7</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714102400 +0800" stop="20240714104700 +0800" channel="J050">
+<title lang="zh">汪汪队立大功第3季13</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240714000000 +0800" stop="20240714020000 +0800" channel="P01">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
 </programme>
@@ -14856,6 +14940,9 @@
 <programme start="20240714090300 +0800" stop="20240714100000 +0800" channel="Y01">
 <title lang="zh">实况录像-2024年国际体联蹦床世界杯 阿罗萨站</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240714100000 +0800" stop="20240714120000 +0800" channel="Y01">
+<title lang="zh">2024年环青海湖国际公路自行车赛-第八赛段</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240714004000 +0800" stop="20240714021600 +0800" channel="Y02">
 <title lang="zh">2023-24赛季德甲第32轮：多特蒙德VS奥格斯堡</title><desc lang="zh"></desc>
 </programme>
@@ -14873,6 +14960,9 @@
 </programme>
 <programme start="20240714085600 +0800" stop="20240714104300 +0800" channel="Y02">
 <title lang="zh">23-24赛季CBA总决赛G2：辽宁VS新疆</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714104300 +0800" stop="20240714122800 +0800" channel="Y02">
+<title lang="zh">23-24赛季CBA总决赛G3：新疆VS辽宁</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240714000000 +0800" stop="20240714011600 +0800" channel="Y03">
 <title lang="zh">DOTA2职业杯S2:LGD-RNG</title><desc lang="zh"></desc>
