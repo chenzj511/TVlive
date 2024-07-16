@@ -2,7 +2,7 @@
 //*Copyright(C),贝壳智慧家工作室
 //*FileName:IPTV-自动爬取EPG 生成TVXML文件
 //*Author:@珊瑚
-//*Version:v1.4
+//*Version:v1.5
 //*Date:2023.11.21
 //*Description:用于爬取本地IPTV频道列表对应的TVXML 测试环境Ubuntu+Python3.10.11
 //*Others:后续按EPG API接口更新版本
