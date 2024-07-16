@@ -56,7 +56,7 @@ def epg_api_data(tvg_id,tvg_name):
    # if tvg_id == 'F050':
    #   print(tvg_name, '==', epg_date.text, '!!\n')
 
-    if '精彩节目' in epg_date.text or tvg_name in '卡酷少儿 纪实科教':
+    if  "\u7cbe\u5f69\u8282\u76ee" in epg_date.text or tvg_name in '卡酷少儿 纪实科教':
         print(tvg_name,'的EPG节目信息在API1中不存在或不准确 已更换为API2')
         epg_date=requests.get(epg2_api+tvg_name,headers=header)
         print(tvg_name, '==', epg_date.text, '!!\n')
