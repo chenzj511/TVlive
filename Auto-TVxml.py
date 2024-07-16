@@ -53,8 +53,8 @@ def extract_tvg_info_from_m3u(m3u_data):
 # 定义频道TVXML数据API数据获取函数
 def epg_api_data(tvg_id,tvg_name):
     epg_date=requests.get(epg1_api+tvg_name,headers=header)
-    if tvg_id == 'F050':
-        print(tvg_name, '==', epg_date, '!!\n')
+    #if tvg_id == 'F050':
+    print(tvg_name, '==', epg_date, '!!\n')
 
     if '精彩节目-暂未提供节目预告信息' in epg_date.text or tvg_name in '卡酷少儿 纪实科教':
         print(tvg_name,'的EPG节目信息在API1中不存在或不准确 已更换为API2')
