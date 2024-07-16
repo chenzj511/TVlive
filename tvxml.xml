@@ -7446,6 +7446,9 @@
 <programme start="20240716201700 +0800" stop="20240716222200 +0800" channel="C0110">
 <title lang="zh">电影《扫毒3：人在天涯》</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240716222200 +0800" stop="20240716001900 +0800" channel="C0110">
+<title lang="zh">电影《星际迷航3：超越星辰》</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240716001100 +0800" stop="20240716005600 +0800" channel="C0115">
 <title lang="zh">36_我哥我嫂</title><desc lang="zh"></desc>
 </programme>
@@ -7535,6 +7538,9 @@
 </programme>
 <programme start="20240716214200 +0800" stop="20240716222400 +0800" channel="C0115">
 <title lang="zh">08_女医明妃传</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240716222400 +0800" stop="20240716230800 +0800" channel="C0115">
+<title lang="zh">09_女医明妃传</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240716001100 +0800" stop="20240716010100 +0800" channel="C0120">
 <title lang="zh">美国汤贝斯AKG细胞复活-渠道（右）</title><desc lang="zh"></desc>
@@ -8078,6 +8084,9 @@
 </programme>
 <programme start="20240716213300 +0800" stop="20240716221900 +0800" channel="C0145">
 <title lang="zh">02_解放大西南</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240716221900 +0800" stop="20240716230400 +0800" channel="C0145">
+<title lang="zh">21_寻路</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240716004200 +0800" stop="20240716012100 +0800" channel="C0150">
 <title lang="zh">泰米拉泰国进口石墨烯乳胶床垫1.8m/乳胶床垫1.5m-渠道（右）</title><desc lang="zh"></desc>
@@ -13812,6 +13821,9 @@
 <programme start="20240716205400 +0800" stop="20240716224100 +0800" channel="F070">
 <title lang="zh">炙爱之战</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240716224100 +0800" stop="20240716002000 +0800" channel="F070">
+<title lang="zh">我的艺术清单</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240716000900 +0800" stop="20240716021000 +0800" channel="F080">
 <title lang="zh">海大鱼</title><desc lang="zh"></desc>
 </programme>
@@ -13895,6 +13907,9 @@
 </programme>
 <programme start="20240716214800 +0800" stop="20240716221800 +0800" channel="F080">
 <title lang="zh">【推广】美丽密码A19版</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240716221800 +0800" stop="20240716234100 +0800" channel="F080">
+<title lang="zh">海边派对，男女分组打乱感情线</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240716000000 +0800" stop="20240716020000 +0800" channel="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
@@ -15072,6 +15087,9 @@
 <programme start="20240716212000 +0800" stop="20240716221700 +0800" channel="G080">
 <title lang="zh">第一集《引领》</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240716222800 +0800" stop="20240716223900 +0800" channel="G080">
+<title lang="zh">第30集：四川内江 凉拌小肠 凉面</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240716001500 +0800" stop="20240716003400 +0800" channel="G090">
 <title lang="zh">国防军事早报</title><desc lang="zh"></desc>
 </programme>
@@ -15191,6 +15209,9 @@
 </programme>
 <programme start="20240716220200 +0800" stop="20240716222400 +0800" channel="G090">
 <title lang="zh">女性与一战（上）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240716222400 +0800" stop="20240716224900 +0800" channel="G090">
+<title lang="zh">美英联合对胡塞武装发动空袭 红海危机升级 美宣称对乌军事支持已经暂停</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240716000000 +0800" stop="20240716000700 +0800" channel="H010">
 <title lang="zh">这里是北京</title><desc lang="zh"></desc>
@@ -20730,6 +20751,9 @@
 <programme start="20240716220500 +0800" stop="20240716224000 +0800" channel="Y01">
 <title lang="zh">五环纪事-绽放巴黎-16(4K精编)</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240716224000 +0800" stop="20240716230000 +0800" channel="Y01">
+<title lang="zh">跟着名画游法国-1(4K)</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240716003700 +0800" stop="20240716021600 +0800" channel="Y02">
 <title lang="zh">2023-24赛季欧冠半决赛首回合：多特蒙德VS巴黎圣日耳曼</title><desc lang="zh"></desc>
 </programme>
@@ -20768,6 +20792,9 @@
 </programme>
 <programme start="20240716203800 +0800" stop="20240716222300 +0800" channel="Y02">
 <title lang="zh">【NBA赛场】23-24赛季季后赛：独行侠VS森林狼</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240716222300 +0800" stop="20240716000800 +0800" channel="Y02">
+<title lang="zh">【NBA赛场】23-24赛季季后赛：独行侠VS快船</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240716060000 +0800" stop="20240716065400 +0800" channel="Y03">
 <title lang="zh">JJ斗地主冠军杯S5总决赛A组第1场</title><desc lang="zh"></desc>
