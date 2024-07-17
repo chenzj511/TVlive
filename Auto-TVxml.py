@@ -58,7 +58,7 @@ def epg_api_data(tvg_id,tvg_name):
         s = epg_date.json()['epg_data'][0]["title"]
         print(s,":orgin")
         if isinstance(s,str):
-            print(s.encode('GBK').decode('GBK'))
+            print(s.encode('GBK').decode('GBK'),':str')
         else:
             print (s.decode('GBK'),'unicode')
   #    print(tvg_name, '==',codecs.encode(str(epg_date.json()['epg_data'][0]),'gb2312') , '!!\n')
