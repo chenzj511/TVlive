@@ -11,7 +11,6 @@
 import re,time
 import json
 import requests
-import unicode
 
 # 原始数据来源地址
 
@@ -58,8 +57,8 @@ def epg_api_data(tvg_id,tvg_name):
    #   print(tvg_name, '==', epg_date.text, '!!\n')
     search_string = "精彩节目"
     str_title =""
-    str_title = unicode(epg_date.text,"gbk")
-    if  str_title.find(search_string) != -1 or tvg_name in '卡酷少儿 纪实科教':
+    str_title = epg_date.text
+    if  str_title.encode("gbk").find(search_string) != -1 or tvg_name in '卡酷少儿 纪实科教':
         print(tvg_name,'的EPG节目信息在API1中不存在或不准确 已更换为API2')
         epg_date=requests.get(epg2_api+tvg_name,headers=header)
         print(tvg_name, '==', epg_date.text, '!!\n')
