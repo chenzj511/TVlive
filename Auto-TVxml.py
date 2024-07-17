@@ -56,7 +56,7 @@ def epg_api_data(tvg_id,tvg_name):
     epg_date=requests.get(epg1_api+tvg_name,headers=header)
     if tvg_name == 'CCTV1':
         s = epg_date.json()['epg_data'][0]["title"]
-        print(s,":orgin")
+       # print(s,":orgin")
        # if isinstance(s,str):
             #print(s.encode('GBK').decode('GBK'),':str')
       #  else:
@@ -74,9 +74,9 @@ def epg_api_data(tvg_id,tvg_name):
         print(tvg_name, '=2=',str_title2, '!2!\n')
         if  '精彩节目' in str_title2:  
            print(tvg_name,'的EPG节目信息在API1和API2中不存在或不准确 已更换为API3')
-           epg_date=requests.get(epg3_api+tvg_name,headers=header)
+         #  epg_date=requests.get(epg3_api+tvg_name,headers=header)
          #  str_title3 = epg_date.json()['epg_data'][0]["title"]
-           print(epg_date.text,"333\n")
+         #  print(epg_date.text,"333\n")
     json_data = epg_date.json()
 
     # 创建空字符串用于存放 epg 内容
