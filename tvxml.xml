@@ -5922,6 +5922,9 @@
 <programme start="20240717135400 +0800" stop="20240717143800 +0800" channel="C0115">
 <title lang="zh">07_警犬来啦</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240717143800 +0800" stop="20240717152300 +0800" channel="C0115">
+<title lang="zh">08_警犬来啦</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240717002000 +0800" stop="20240717005900 +0800" channel="C0120">
 <title lang="zh">钓台华图一号九龙壁纪念酒-渠道（右）</title><desc lang="zh"></desc>
 </programme>
@@ -6128,6 +6131,9 @@
 </programme>
 <programme start="20240717134600 +0800" stop="20240717143200 +0800" channel="C0135">
 <title lang="zh">13_小日子</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240717143200 +0800" stop="20240717151900 +0800" channel="C0135">
+<title lang="zh">14_小日子</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240717002200 +0800" stop="20240717010200 +0800" channel="C0140">
 <title lang="zh">26_新刑警本色</title><desc lang="zh"></desc>
@@ -11124,6 +11130,9 @@
 <programme start="20240717140700 +0800" stop="20240717145800 +0800" channel="F060">
 <title lang="zh">艺览天下</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240717145800 +0800" stop="20240717154800 +0800" channel="F060">
+<title lang="zh">绽放吧！妈妈</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240717002000 +0800" stop="20240717023800 +0800" channel="F070">
 <title lang="zh">哈哈哈哈哈第3季</title><desc lang="zh"></desc>
 </programme>
@@ -11213,6 +11222,9 @@
 </programme>
 <programme start="20240717135400 +0800" stop="20240717144300 +0800" channel="F080">
 <title lang="zh">郭桂花鸿运连连沉香木画-渠道（右）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240717144300 +0800" stop="20240717152200 +0800" channel="F080">
+<title lang="zh">19_闪耀的她</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240717000000 +0800" stop="20240717020000 +0800" channel="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
@@ -12269,6 +12281,9 @@
 </programme>
 <programme start="20240717135400 +0800" stop="20240717143300 +0800" channel="G080">
 <title lang="zh">第七集 武器技术</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240717143300 +0800" stop="20240717151600 +0800" channel="G080">
+<title lang="zh">第八集 罗马帝国</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240717000800 +0800" stop="20240717003300 +0800" channel="G090">
 <title lang="zh">国防军事早报</title><desc lang="zh"></desc>
@@ -15213,6 +15228,9 @@
 <programme start="20240717142900 +0800" stop="20240717143100 +0800" channel="J050">
 <title lang="zh">植物大战僵尸恶搞动画：当僵尸化身成钢铁侠，植物们还打得过吗？</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240717144200 +0800" stop="20240717144700 +0800" channel="J050">
+<title lang="zh">大牙居然变成了气球漂浮在屋子里巫女贪玩弄破气球</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240717000000 +0800" stop="20240717003000 +0800" channel="P01">
 <title lang="zh">World Sport</title><desc lang="zh"></desc>
 </programme>
@@ -17639,6 +17657,9 @@
 </programme>
 <programme start="20240717140000 +0800" stop="20240717145700 +0800" channel="Y01">
 <title lang="zh">2024年赛艇世界杯-卢塞恩站</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240717145700 +0800" stop="20240717162000 +0800" channel="Y01">
+<title lang="zh">实况录像-2024年奥运会男篮资格赛 波多黎各站 决赛</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240717000800 +0800" stop="20240717015400 +0800" channel="Y02">
 <title lang="zh">【2016欧洲杯】A组：法国VS罗马尼亚</title><desc lang="zh"></desc>
