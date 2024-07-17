@@ -55,14 +55,14 @@ def epg_api_data(tvg_id,tvg_name):
     epg_date=requests.get(epg1_api+tvg_name,headers=header)
    # if tvg_id == 'F050':
    #   print(tvg_name, '==', epg_date.text, '!!\n')
-    search_string = "精彩节目"
+    search_string = u"精彩节目"
     str_title =""
-    str_title = epg_date.text
-    if  str_title.encode('utf-8').find(search_string) != -1 or tvg_name in '卡酷少儿 纪实科教':
+    str_title = unicode(epg_date.text,"GBK")
+    if  str_title.find(search_string) != -1 or tvg_name in '卡酷少儿 纪实科教':
         print(tvg_name,'的EPG节目信息在API1中不存在或不准确 已更换为API2')
         epg_date=requests.get(epg2_api+tvg_name,headers=header)
         print(tvg_name, '==', epg_date.text, '!!\n')
-        if  '精彩节目' in epg_date.text:
+        if  u'精彩节目' in epg_date.text:
   #      if  "\u7cbe\u5f69\u8282\u76ee" in epg_date.text :  #  '精彩节目-暂未提供节目预告信息'
 
            print(tvg_name,'的EPG节目信息在API1和API2中不存在或不准确 已更换为API3')
