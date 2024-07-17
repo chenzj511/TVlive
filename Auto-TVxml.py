@@ -18,7 +18,7 @@ import codecs
 m3u_url='https://raw.githubusercontent.com/chenzj511/TVlive/main/m3u/chenzj_tvlive.m3u'
 epg1_api='https://epg.112114.xyz/?ch='
 epg2_api='https://diyp.112114.xyz/?ch='
-epg3_api='http://epg.51zmt.top:8000/api/diyp/?ch='
+epg3_api='http://epg.erw.cc/api/diyp/?ch='
 header={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0'}
 
 # 定义频道原始数据获取函数
@@ -74,9 +74,9 @@ def epg_api_data(tvg_id,tvg_name):
         print(tvg_name, '=2=',str_title2, '!2!\n')
         if  '精彩节目' in str_title2:  
            print(tvg_name,'的EPG节目信息在API1和API2中不存在或不准确 已更换为API3')
-          # epg_date=requests.get(epg3_api+tvg_name,headers=header)
+           epg_date=requests.get(epg3_api+tvg_name,headers=header)
          #  str_title3 = epg_date.json()['epg_data'][0]["title"]
-         #  print(epg_date.text,"333\n")
+           print(epg_date.text,"333\n")
     json_data = epg_date.json()
 
     # 创建空字符串用于存放 epg 内容
