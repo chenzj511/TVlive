@@ -5754,6 +5754,9 @@
 <programme start="20240717081900 +0800" stop="20240717095700 +0800" channel="C0100">
 <title lang="zh">西北风云</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240717095700 +0800" stop="20240717103600 +0800" channel="C0100">
+<title lang="zh">悠蘭碧尔赋颜抗皱紧致滋润精华霜-渠道（右）</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240717002500 +0800" stop="20240717011100 +0800" channel="C0105">
 <title lang="zh">03_天和局</title><desc lang="zh"></desc>
 </programme>
@@ -5853,6 +5856,9 @@
 <programme start="20240717092500 +0800" stop="20240717100700 +0800" channel="C0115">
 <title lang="zh">32_刘老根3</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240717100700 +0800" stop="20240717105300 +0800" channel="C0115">
+<title lang="zh">12_平凡之路</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240717002000 +0800" stop="20240717005900 +0800" channel="C0120">
 <title lang="zh">钓台华图一号九龙壁纪念酒-渠道（右）</title><desc lang="zh"></desc>
 </programme>
@@ -5883,6 +5889,9 @@
 <programme start="20240717090800 +0800" stop="20240717095900 +0800" channel="C0120">
 <title lang="zh">08_嫣语赋</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240717095900 +0800" stop="20240717104700 +0800" channel="C0120">
+<title lang="zh">09_嫣语赋</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240717002000 +0800" stop="20240717005900 +0800" channel="C0125">
 <title lang="zh">钓台华图一号九龙壁纪念酒-渠道（右）</title><desc lang="zh"></desc>
 </programme>
@@ -5912,6 +5921,9 @@
 </programme>
 <programme start="20240717090800 +0800" stop="20240717095900 +0800" channel="C0125">
 <title lang="zh">08_嫣语赋</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240717095900 +0800" stop="20240717104700 +0800" channel="C0125">
+<title lang="zh">09_嫣语赋</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240717000700 +0800" stop="20240717011800 +0800" channel="C0130">
 <title lang="zh">古剑奇谭之悲歌咒</title><desc lang="zh"></desc>
@@ -5991,6 +6003,9 @@
 <programme start="20240717090500 +0800" stop="20240717095000 +0800" channel="C0135">
 <title lang="zh">33_幸福的错觉</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240717095000 +0800" stop="20240717103500 +0800" channel="C0135">
+<title lang="zh">34_幸福的错觉</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240717002200 +0800" stop="20240717010200 +0800" channel="C0140">
 <title lang="zh">26_新刑警本色</title><desc lang="zh"></desc>
 </programme>
@@ -6030,6 +6045,9 @@
 <programme start="20240717090100 +0800" stop="20240717094900 +0800" channel="C0140">
 <title lang="zh">11_爱的二八定律</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240717094900 +0800" stop="20240717103700 +0800" channel="C0140">
+<title lang="zh">12_爱的二八定律</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240717003900 +0800" stop="20240717012600 +0800" channel="C0145">
 <title lang="zh">33_红幡</title><desc lang="zh"></desc>
 </programme>
@@ -6065,6 +6083,9 @@
 </programme>
 <programme start="20240717090800 +0800" stop="20240717095400 +0800" channel="C0145">
 <title lang="zh">34_冷风暴</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240717095400 +0800" stop="20240717103900 +0800" channel="C0145">
+<title lang="zh">01_我们队伍向太阳</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240717004000 +0800" stop="20240717011900 +0800" channel="C0150">
 <title lang="zh">悠蘭碧尔赋颜抗皱紧致滋润精华霜-渠道（右）</title><desc lang="zh"></desc>
@@ -6122,6 +6143,9 @@
 </programme>
 <programme start="20240717091000 +0800" stop="20240717095600 +0800" channel="C0155">
 <title lang="zh">38_重紫</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240717095600 +0800" stop="20240717104500 +0800" channel="C0155">
+<title lang="zh">郭桂花鸿运连连沉香木画-渠道（右）</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240717000000 +0800" stop="20240717020000 +0800" channel="C0160">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
@@ -10956,6 +10980,9 @@
 <programme start="20240717094200 +0800" stop="20240717102900 +0800" channel="F080">
 <title lang="zh">32_林深见鹿</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240717102900 +0800" stop="20240717111500 +0800" channel="F080">
+<title lang="zh">33_林深见鹿</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240717000000 +0800" stop="20240717020000 +0800" channel="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
 </programme>
@@ -11988,6 +12015,12 @@
 <programme start="20240717091400 +0800" stop="20240717100300 +0800" channel="G080">
 <title lang="zh">03_暴动</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240717100700 +0800" stop="20240717103100 +0800" channel="G080">
+<title lang="zh">第二集 心脏拆爆队</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240717103100 +0800" stop="20240717105600 +0800" channel="G080">
+<title lang="zh">第三集 急诊特种兵</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240717000800 +0800" stop="20240717003300 +0800" channel="G090">
 <title lang="zh">国防军事早报</title><desc lang="zh"></desc>
 </programme>
@@ -12047,6 +12080,9 @@
 </programme>
 <programme start="20240717093000 +0800" stop="20240717102300 +0800" channel="G090">
 <title lang="zh">让青春在军营绽放——青年退役军人的从军故事</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240717102300 +0800" stop="20240717111400 +0800" channel="G090">
+<title lang="zh">赶路人</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240717000000 +0800" stop="20240717000700 +0800" channel="H010">
 <title lang="zh">这里是北京</title><desc lang="zh"></desc>
@@ -14868,6 +14904,12 @@
 <programme start="20240717094200 +0800" stop="20240717095300 +0800" channel="J050">
 <title lang="zh">16_小马宝莉之魔力新世界</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240717100600 +0800" stop="20240717101900 +0800" channel="J050">
+<title lang="zh">20_百变校巴7</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240717101900 +0800" stop="20240717104200 +0800" channel="J050">
+<title lang="zh">汪汪队立大功第3季19</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240717000000 +0800" stop="20240717003000 +0800" channel="P01">
 <title lang="zh">World Sport</title><desc lang="zh"></desc>
 </programme>
@@ -17279,6 +17321,9 @@
 </programme>
 <programme start="20240717090500 +0800" stop="20240717100000 +0800" channel="Y01">
 <title lang="zh">2024年奥运会攀岩资格赛-布达佩斯站 全能决赛</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240717100000 +0800" stop="20240717120000 +0800" channel="Y01">
+<title lang="zh">实况录像-星耀五环 繁花绽放</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240717000800 +0800" stop="20240717015400 +0800" channel="Y02">
 <title lang="zh">【2016欧洲杯】A组：法国VS罗马尼亚</title><desc lang="zh"></desc>
