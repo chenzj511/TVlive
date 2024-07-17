@@ -55,7 +55,14 @@ def extract_tvg_info_from_m3u(m3u_data):
 def epg_api_data(tvg_id,tvg_name):
     epg_date=requests.get(epg1_api+tvg_name,headers=header)
     if tvg_name == 'CCTV1':
-      print(tvg_name, '==',codecs.encode(str(epg_date.json()['epg_data'][0]),'gb2312') , '!!\n')
+        s =  epg_date.json()['epg_data'][0].["title"]
+
+        if isinstance(s, unicode): 
+           print("unicode")
+           print s.encode('gb2312')  
+        else:
+           s.decode('utf-8').encode('gb2312')  
+  #    print(tvg_name, '==',codecs.encode(str(epg_date.json()['epg_data'][0]),'gb2312') , '!!\n')
     search_string = "精彩节目"
     
     str_title = epg_date.content.decode('GBK')
