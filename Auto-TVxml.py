@@ -64,11 +64,13 @@ def epg_api_data(tvg_id,tvg_name):
   #    print(tvg_name, '==',codecs.encode(str(epg_date.json()['epg_data'][0]),'gb2312') , '!!\n')
     search_string = "精彩节目"
     
-    str_title = epg_date.content.decode('GBK')
+    # str_title = epg_date.content.decode('GBK')
+    str_title = epg_date.json()['epg_data'][0]["title"]
+    print (str_title,"==\n")
     if '精彩节目' in str_title or tvg_name in '卡酷少儿 纪实科教':
         print(tvg_name,'的EPG节目信息在API1中不存在或不准确 已更换为API2')
         epg_date=requests.get(epg2_api+tvg_name,headers=header)
-        print(tvg_name, '==', epg_date.text, '!!\n')
+        # print(tvg_name, '==', epg_date.text, '!!\n')
         if  '精彩节目' in json.dumps(epg_date.text):
   #      if  "\u7cbe\u5f69\u8282\u76ee" in epg_date.text :  #  '精彩节目-暂未提供节目预告信息'
 
