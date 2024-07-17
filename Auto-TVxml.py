@@ -53,8 +53,8 @@ def extract_tvg_info_from_m3u(m3u_data):
 # 定义频道TVXML数据API数据获取函数
 def epg_api_data(tvg_id,tvg_name):
     epg_date=requests.get(epg1_api+tvg_name,headers=header)
-   # if tvg_id == 'F050':
-    print(tvg_name, '==',epg_date.content.decode('gb2312') , '!!\n')
+    if tvg_name == 'CCTV1':
+      print(tvg_name, '==',epg_date['epg_data'].content.decode('gb2312') , '!!\n')
     search_string = "精彩节目"
     
     str_title = epg_date.content.decode('GBK')
