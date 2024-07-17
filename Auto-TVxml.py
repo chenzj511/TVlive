@@ -58,7 +58,7 @@ def epg_api_data(tvg_id,tvg_name):
         s = epg_date.json()['epg_data'][0]["title"]
         if isinstance(s,str):
             print(s.decode('utf-8').encode('gb2312'))
-        else
+        else:
             print (s.encode('gb2312'),'unicode')
   #    print(tvg_name, '==',codecs.encode(str(epg_date.json()['epg_data'][0]),'gb2312') , '!!\n')
     search_string = "精彩节目"
