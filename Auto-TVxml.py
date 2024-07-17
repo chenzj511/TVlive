@@ -56,7 +56,6 @@ def epg_api_data(tvg_id,tvg_name):
     epg_date=requests.get(epg1_api+tvg_name,headers=header)
     if tvg_name == 'CCTV1':
         s =  epg_date.json()['epg_data'][0].["title"]
-
         if isinstance(s, unicode): 
            print("unicode")
            print s.encode('gb2312')  
