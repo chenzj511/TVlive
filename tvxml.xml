@@ -5565,6 +5565,9 @@
 <programme start="20240725083000 +0800" stop="20240725103100 +0800" channel="C030">
 <title lang="zh">老无所依</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240725103100 +0800" stop="20240725120800 +0800" channel="C030">
+<title lang="zh">火线追凶2之致命线人</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240725000000 +0800" stop="20240725060600 +0800" channel="C040">
 <title lang="zh">利箭纵横</title><desc lang="zh"></desc>
 </programme>
@@ -5655,6 +5658,9 @@
 <programme start="20240725091300 +0800" stop="20240725100200 +0800" channel="C0100">
 <title lang="zh">新疆100%纯驼乳粉-渠道（右）</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240725100200 +0800" stop="20240725112400 +0800" channel="C0100">
+<title lang="zh">机器人战警</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240725002100 +0800" stop="20240725010500 +0800" channel="C0105">
 <title lang="zh">11_春光灿烂猪九妹</title><desc lang="zh"></desc>
 </programme>
@@ -5693,6 +5699,9 @@
 </programme>
 <programme start="20240725093400 +0800" stop="20240725102000 +0800" channel="C0105">
 <title lang="zh">55_三生三世枕上书</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725102000 +0800" stop="20240725110600 +0800" channel="C0105">
+<title lang="zh">56_三生三世枕上书</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240725000600 +0800" stop="20240725002400 +0800" channel="C0110">
 <title lang="zh">今日影评</title><desc lang="zh"></desc>
@@ -5759,6 +5768,9 @@
 </programme>
 <programme start="20240725094600 +0800" stop="20240725103200 +0800" channel="C0115">
 <title lang="zh">22_我爱男保姆</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725103200 +0800" stop="20240725111300 +0800" channel="C0115">
+<title lang="zh">08_跨过鸭绿江</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240725002300 +0800" stop="20240725011100 +0800" channel="C0120">
 <title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title><desc lang="zh"></desc>
@@ -5865,6 +5877,9 @@
 <programme start="20240725093900 +0800" stop="20240725102800 +0800" channel="C0130">
 <title lang="zh">45_少林寺传奇藏经阁</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240725102800 +0800" stop="20240725111300 +0800" channel="C0130">
+<title lang="zh">46_少林寺传奇藏经阁</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240725002100 +0800" stop="20240725010600 +0800" channel="C0135">
 <title lang="zh">09_兰花香</title><desc lang="zh"></desc>
 </programme>
@@ -5903,6 +5918,9 @@
 </programme>
 <programme start="20240725093300 +0800" stop="20240725102000 +0800" channel="C0135">
 <title lang="zh">10_非常有喜</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725102000 +0800" stop="20240725104100 +0800" channel="C0135">
+<title lang="zh">中医健身学八段锦</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240725004900 +0800" stop="20240725013400 +0800" channel="C0140">
 <title lang="zh">09_我的金山银山</title><desc lang="zh"></desc>
@@ -10920,6 +10938,9 @@
 <programme start="20240725090500 +0800" stop="20240725095600 +0800" channel="F060">
 <title lang="zh">艺览天下</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240725095600 +0800" stop="20240725111300 +0800" channel="F060">
+<title lang="zh">开门大吉</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240725004700 +0800" stop="20240725040100 +0800" channel="F070">
 <title lang="zh">现在就出发</title><desc lang="zh"></desc>
 </programme>
@@ -10973,6 +10994,9 @@
 </programme>
 <programme start="20240725093900 +0800" stop="20240725102700 +0800" channel="F080">
 <title lang="zh">32_我们的婚姻</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725102700 +0800" stop="20240725112100 +0800" channel="F080">
+<title lang="zh">33_我们的婚姻</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240725000000 +0800" stop="20240725020000 +0800" channel="F0100">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
@@ -11567,6 +11591,9 @@
 </programme>
 <programme start="20240725093900 +0800" stop="20240725102500 +0800" channel="G080">
 <title lang="zh">第1集：脊梁</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725102500 +0800" stop="20240725110600 +0800" channel="G080">
+<title lang="zh">01_春风化雨</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240725001600 +0800" stop="20240725004100 +0800" channel="G090">
 <title lang="zh">国防军事早报</title><desc lang="zh"></desc>
@@ -14505,6 +14532,12 @@
 <programme start="20240725094700 +0800" stop="20240725100800 +0800" channel="J050">
 <title lang="zh">06_小马宝莉：我的可爱标志上</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240725100800 +0800" stop="20240725102100 +0800" channel="J050">
+<title lang="zh">09_百变校巴8</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725102100 +0800" stop="20240725103500 +0800" channel="J050">
+<title lang="zh">10_百变校巴8</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240725000000 +0800" stop="20240725003000 +0800" channel="P01">
 <title lang="zh">One World</title><desc lang="zh"></desc>
 </programme>
@@ -16029,6 +16062,24 @@
 <programme start="20240725030000 +0800" stop="20240725050000 +0800" channel="Y01">
 <title lang="zh">巴黎奥运会-男足小组赛(法国队-美国队)</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240725050000 +0800" stop="20240725060000 +0800" channel="Y01">
+<title lang="zh">2024年皮划艇激流回旋世界杯-德国站</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725060000 +0800" stop="20240725063000 +0800" channel="Y01">
+<title lang="zh">实况录像-2024年射箭世界杯 上海站 4</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725063000 +0800" stop="20240725070000 +0800" channel="Y01">
+<title lang="zh">健身动起来</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725070000 +0800" stop="20240725090500 +0800" channel="Y01">
+<title lang="zh">体坛晨报</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725090500 +0800" stop="20240725100000 +0800" channel="Y01">
+<title lang="zh">2024年奥运会攀岩资格赛-布达佩斯站 全能决赛</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725100000 +0800" stop="20240725120000 +0800" channel="Y01">
+<title lang="zh">实况录像-星耀五环 勇者胜</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240725001800 +0800" stop="20240725015500 +0800" channel="Y02">
 <title lang="zh">2024美洲杯小组赛：乌拉圭VS玻利维亚</title><desc lang="zh"></desc>
 </programme>
@@ -16037,6 +16088,15 @@
 </programme>
 <programme start="20240725033500 +0800" stop="20240725051000 +0800" channel="Y02">
 <title lang="zh">2024美洲杯小组赛：哥伦比亚VS哥斯达黎加</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725051000 +0800" stop="20240725065400 +0800" channel="Y02">
+<title lang="zh">2024美洲杯小组赛：美国VS乌拉圭</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725065400 +0800" stop="20240725083000 +0800" channel="Y02">
+<title lang="zh">2024美洲杯小组赛：阿根廷VS秘鲁</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725083000 +0800" stop="20240725103700 +0800" channel="Y02">
+<title lang="zh">23-24赛季CBA季后赛：东阳光药VS广东</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240725000000 +0800" stop="20240725005300 +0800" channel="Y03">
 <title lang="zh">JJ斗地主冠军杯S4秋季赛A组第5场</title><desc lang="zh"></desc>
@@ -16473,41 +16533,50 @@
 <programme start="20240725234500 +0800" stop="20240725235900 +0800" channel="Y08">
 <title lang="zh">小王子-我是王牌卧底2【元梦之星】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240725000000 +0800" stop="20240725020000 +0800" channel="Y09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20240725000000 +0800" stop="20240725000300 +0800" channel="Y09">
+<title lang="zh">精彩呈现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240725020000 +0800" stop="20240725040000 +0800" channel="Y09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20240725000300 +0800" stop="20240725043300 +0800" channel="Y09">
+<title lang="zh">DRG-鹏鹏排位之旅【王者荣耀】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240725060000 +0800" stop="20240725080000 +0800" channel="Y09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20240725043300 +0800" stop="20240725073400 +0800" channel="Y09">
+<title lang="zh">TTG-排位五人组【王者荣耀】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240725080000 +0800" stop="20240725100600 +0800" channel="Y09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20240725073400 +0800" stop="20240725083700 +0800" channel="Y09">
+<title lang="zh">随去风来-真正的高手【蛋仔派对】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240725100600 +0800" stop="20240725120000 +0800" channel="Y09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20240725083700 +0800" stop="20240725091700 +0800" channel="Y09">
+<title lang="zh">迷斯拉-冰川试炼3【迷你世界】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240725120000 +0800" stop="20240725140000 +0800" channel="Y09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20240725091700 +0800" stop="20240725114800 +0800" channel="Y09">
+<title lang="zh">大海解说建造我的王国【我的世界】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240725140000 +0800" stop="20240725160000 +0800" channel="Y09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20240725114800 +0800" stop="20240725125600 +0800" channel="Y09">
+<title lang="zh">小幺-菜鸡求生路【和平精英】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240725160000 +0800" stop="20240725180000 +0800" channel="Y09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20240725125600 +0800" stop="20240725151600 +0800" channel="Y09">
+<title lang="zh">CH酷凡-贝爷生存【我的世界】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240725180000 +0800" stop="20240725190000 +0800" channel="Y09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20240725151600 +0800" stop="20240725163500 +0800" channel="Y09">
+<title lang="zh">波乐星仔仔-废墟战神【和平精英】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240725190000 +0800" stop="20240725200000 +0800" channel="Y09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20240725163500 +0800" stop="20240725175600 +0800" channel="Y09">
+<title lang="zh">橘猫-争当第一【蛋仔派对】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240725200000 +0800" stop="20240725220000 +0800" channel="Y09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20240725175600 +0800" stop="20240725191800 +0800" channel="Y09">
+<title lang="zh">小天-机枪战场【元梦之星】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240725220000 +0800" stop="20240725235900 +0800" channel="Y09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20240725191800 +0800" stop="20240725205300 +0800" channel="Y09">
+<title lang="zh">小十八-我要回家吃豆豆【蛋仔派对】</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725205300 +0800" stop="20240725224800 +0800" channel="Y09">
+<title lang="zh">多米-彩虹创想【罗布乐思】</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725224800 +0800" stop="20240725231400 +0800" channel="Y09">
+<title lang="zh">RW皮皮侠【王者荣耀】</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240725231400 +0800" stop="20240725235900 +0800" channel="Y09">
+<title lang="zh">阿葱-蜕变生存【太空行动】</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240725000000 +0800" stop="20240725020000 +0800" channel="Y10">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
