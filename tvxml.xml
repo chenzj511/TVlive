@@ -4788,6 +4788,9 @@
 <programme start="20240727082000 +0800" stop="20240727102100 +0800" channel="C030">
 <title lang="zh">特种部队：蛇眼起源</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240727102100 +0800" stop="20240727121600 +0800" channel="C030">
+<title lang="zh">航海王：红发歌姬</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240727000000 +0800" stop="20240727060600 +0800" channel="C040">
 <title lang="zh">利箭纵横</title><desc lang="zh"></desc>
 </programme>
@@ -4869,6 +4872,9 @@
 <programme start="20240727093400 +0800" stop="20240727102200 +0800" channel="C0100">
 <title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240727102200 +0800" stop="20240727114800 +0800" channel="C0100">
+<title lang="zh">涉嫌之人</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240727004000 +0800" stop="20240727012500 +0800" channel="C0105">
 <title lang="zh">21_春光灿烂猪九妹</title><desc lang="zh"></desc>
 </programme>
@@ -4907,6 +4913,9 @@
 </programme>
 <programme start="20240727094000 +0800" stop="20240727102900 +0800" channel="C0105">
 <title lang="zh">09_乐游原</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240727102900 +0800" stop="20240727111400 +0800" channel="C0105">
+<title lang="zh">10_乐游原</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240727003200 +0800" stop="20240727004800 +0800" channel="C0110">
 <title lang="zh">今日影评</title><desc lang="zh"></desc>
@@ -5115,6 +5124,9 @@
 <programme start="20240727093600 +0800" stop="20240727102200 +0800" channel="C0135">
 <title lang="zh">20_非常有喜</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240727102200 +0800" stop="20240727111000 +0800" channel="C0135">
+<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240727002500 +0800" stop="20240727010900 +0800" channel="C0140">
 <title lang="zh">19_我的金山银山</title><desc lang="zh"></desc>
 </programme>
@@ -5153,6 +5165,9 @@
 </programme>
 <programme start="20240727092700 +0800" stop="20240727101800 +0800" channel="C0140">
 <title lang="zh">20_启航：当风起时</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240727101800 +0800" stop="20240727110100 +0800" channel="C0140">
+<title lang="zh">21_启航：当风起时</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240727004100 +0800" stop="20240727012600 +0800" channel="C0145">
 <title lang="zh">23_军刺</title><desc lang="zh"></desc>
@@ -5213,6 +5228,9 @@
 </programme>
 <programme start="20240727085500 +0800" stop="20240727103000 +0800" channel="C0150">
 <title lang="zh">人皮交易</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240727103000 +0800" stop="20240727115600 +0800" channel="C0150">
+<title lang="zh">危思禁入</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240727002000 +0800" stop="20240727015700 +0800" channel="C0155">
 <title lang="zh">路尽骄阳</title><desc lang="zh"></desc>
@@ -10029,6 +10047,9 @@
 <programme start="20240727081600 +0800" stop="20240727100400 +0800" channel="F060">
 <title lang="zh">此生要去的100个地方</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240727100400 +0800" stop="20240727110500 +0800" channel="F060">
+<title lang="zh">非常6+1</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240727005500 +0800" stop="20240727032700 +0800" channel="F070">
 <title lang="zh">现在就出发</title><desc lang="zh"></desc>
 </programme>
@@ -11112,6 +11133,9 @@
 <programme start="20240727092300 +0800" stop="20240727100900 +0800" channel="G080">
 <title lang="zh">第3集：为民</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240727100900 +0800" stop="20240727104500 +0800" channel="G080">
+<title lang="zh">04_炎蒸三伏</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240727001000 +0800" stop="20240727003400 +0800" channel="G090">
 <title lang="zh">国防军事早报</title><desc lang="zh"></desc>
 </programme>
@@ -11147,6 +11171,9 @@
 </programme>
 <programme start="20240727091700 +0800" stop="20240727100900 +0800" channel="G090">
 <title lang="zh">星火燎原 第4集 创新制胜</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240727100900 +0800" stop="20240727110000 +0800" channel="G090">
+<title lang="zh">星火燎原 第5集 作风优良</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240727000000 +0800" stop="20240727000700 +0800" channel="H010">
 <title lang="zh">这里是北京</title><desc lang="zh"></desc>
@@ -13994,6 +14021,12 @@
 </programme>
 <programme start="20240727094800 +0800" stop="20240727101000 +0800" channel="J050">
 <title lang="zh">09_小马宝莉：我的可爱标志上</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240727101000 +0800" stop="20240727103100 +0800" channel="J050">
+<title lang="zh">10_小马宝莉：我的可爱标志上</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240727103100 +0800" stop="20240727104400 +0800" channel="J050">
+<title lang="zh">13_百变校巴8</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240727000000 +0800" stop="20240727003000 +0800" channel="P01">
 <title lang="zh">World Sport</title><desc lang="zh"></desc>
