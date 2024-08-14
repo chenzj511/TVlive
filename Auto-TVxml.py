@@ -70,7 +70,7 @@ def epg_api_data(tvg_id,tvg_name):
    # print (str_title,"==\n")
     if '精彩节目' in str_title or tvg_name in '卡酷少儿 纪实科教':
         print(tvg_name,'的EPG节目信息在API1中不存在或不准确 已更换为API2')
-        epg_date=requests.get(epg4_api+tvg_name,headers=header)
+        epg_date=requests.get(epg3_api+tvg_name,headers=header)
         str_title2 = epg_date.json()['epg_data'][0]["title"]
         print(tvg_name, '=2=',str_title2, '!2!\n')
         if  '精彩节目' in str_title2:  
